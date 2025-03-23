@@ -18,7 +18,7 @@ export const siteConfig = {
   },
 
   // Location information
-  location: "Banjarbaru, Indonesia",
+  location: "Egypt, cairo",
 
   // Professional roles
   roles: ["Full Stack Developer", "Tech Educator", "Bot developer"],
