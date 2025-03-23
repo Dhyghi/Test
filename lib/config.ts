@@ -13,7 +13,7 @@ export const siteConfig = {
 
   // Social media links
   social: {
-    github: "https://github.com/latesturl",
+    github: "https://github.com/arthur3215",
     email: "arthursan7766@gmail.com",
   },
 
